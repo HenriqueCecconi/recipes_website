@@ -1,13 +1,13 @@
-# recipies_website
+# recipes_website
 
-This is a simple website with some nice cooking recipies! I created this project so I could track and showcase my progress learning Django while making a website from scratch, starting from absolutely no knowledge on how to use the framework.
+This is a simple website with some nice cooking recipes! I created this project so I could track and showcase my progress learning Django while making a website from scratch, starting from absolutely no knowledge on how to use the framework.
 
 ## Obtaining the repo
-You can reproduce this project **forking** this repository by clicking [here](https://github.com/HenriqueCecconi/recipies_website/fork)
+You can reproduce this project **forking** this repository by clicking [here](https://github.com/HenriqueCecconi/recipes_website/fork)
 
 Then clone the repo to your local machine running on the desired folder the command bellow:
 
-`git clone https://github.com/YOURUSER/recipies_website` 
+`git clone https://github.com/YOURUSER/recipes_website` 
 
 ## Requisites
 This project uses python 3.10, and all requirements are listed on the file **requirements.txt**
